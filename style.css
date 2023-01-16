@@ -1,0 +1,29 @@
+#color{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.col h2{
+    background-color: aquamarine;
+    text-align: center;
+    border: 4px solid blue;
+}
+
+table tr th{
+    background-color: blueviolet;
+    border: 4px solid blue;
+    border-radius: 5cm;
+}
+
+
+body{
+    background-image: url('https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/321876402_844218183508074_2546311759421473389_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NSK5T8sRMuwAX-mC7qs&_nc_ht=scontent.fdac24-1.fna&oh=00_AfDUn94flFyuKpuarzyi9z63j1kljkRS7d5txe35SsSazA&oe=63CB27EB');
+    background: cover;
+    background-attachment: fixed;
+
+}
+
+table{
+    background-color: aqua;
+    border: 3px solid black;
+    border-radius: 6px;
+}
